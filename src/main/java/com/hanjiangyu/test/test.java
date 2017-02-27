@@ -5,6 +5,6 @@ package com.hanjiangyu.test;
  */
 public class test {
     public static void main (String[] args){
-        System.out.print("11111");
+        System.out.print("11111111");
     }
 }
